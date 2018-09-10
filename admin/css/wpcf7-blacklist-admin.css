@@ -1,0 +1,8 @@
+.wpcf7-blacklist-wrapper {
+
+}
+
+.wpcf7-blacklist-wrapper textarea {
+  width: 100%;
+  min-height: 500px;
+}
