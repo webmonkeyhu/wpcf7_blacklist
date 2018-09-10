@@ -1,5 +1,5 @@
 === Contact Form 7 Blacklist ===
-Contributors: icetee92
+Contributors: webmonkeyhu
 Tags: blacklist, spam, email, filter
 Requires at least: 3.0.1
 Tested up to: 4.9.7
